@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className="font-Poppins">
       <Head>
-        <title>Fintech - Home</title>
+        <title>Fintech</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
 
